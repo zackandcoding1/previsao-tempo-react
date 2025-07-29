@@ -5,6 +5,8 @@ Este projeto é uma aplicação web desenvolvida com **React.js** que consome a 
 - A **previsão atual** do tempo (temperatura, descrição, ícone do clima);
 - A **previsão para os próximos 5 dias**, com dados resumidos diários baseados na API de previsão de 3 em 3 horas.
 
+Disponível em: https://clima-agora-psi.vercel.app/
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **React.js** — Criação da interface com componentes reutilizáveis e estado reativo;
