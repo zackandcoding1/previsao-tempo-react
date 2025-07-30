@@ -31,5 +31,3 @@ Este projeto tem como objetivo praticar o consumo de APIs REST com React e a man
 - **Componentização**;
 - **Interação com o usuário**;
 - **Tratamento e exibição de dados externos**.
-
-É um exemplo de aplicação real e funcional, ideal para projetos de portfólio com foco em desenvolvimento front-end moderno.
